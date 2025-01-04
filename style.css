@@ -1,14 +1,46 @@
 #dark-blue-bg {
-  height: 200px;
+  height: 400px;
 background: #1F2937;
+  width: 1097px;
+}  
+
+  
 }
 .header-logo {
   font-size: 24px;
   color: #F9FAF8;
+
+
 }
 #body {
   font-family: "Roboto"
 }
+#main-head {
+  color: #F9FAF8;
+  margin-top: 120px;
+  flex: none;
+}
+
+  
+.top-items {
+  display: flex;
+  margin-left: 100px;
+  
+}
+
+.tr-links {
+  display: flex;
+  font-size: 18px;
+  color: #E5E7EB;
+  justify-content:flex-end;
+  border: black dotted 4px;
+  height: 60px;
+  width: 380px;
+  margin-left: 550px;
+}
+
+
+
 
   
 
